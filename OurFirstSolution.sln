@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectOrientedProgrammingCo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExamPractice", "ExamPractice\ExamPractice.csproj", "{308AA521-F967-43CC-963A-BB1F3F500897}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNet", "AdoNet\AdoNet.csproj", "{07956855-B112-429E-85BE-F80FA7142DA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdoNet", "AdoNet\AdoNet.csproj", "{07956855-B112-429E-85BE-F80FA7142DA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfDatabaseFirst", "EfDatabaseFirst\EfDatabaseFirst.csproj", "{B7845D75-7770-46B5-B16D-3FEEB698ABBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfDatabaseFirst", "EfDatabaseFirst\EfDatabaseFirst.csproj", "{B7845D75-7770-46B5-B16D-3FEEB698ABBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceManager", "InvoiceManager\InvoiceManager.csproj", "{B289CAD7-60B6-4F2C-96F4-ED1B3D1B714E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{B7845D75-7770-46B5-B16D-3FEEB698ABBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7845D75-7770-46B5-B16D-3FEEB698ABBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7845D75-7770-46B5-B16D-3FEEB698ABBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B289CAD7-60B6-4F2C-96F4-ED1B3D1B714E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B289CAD7-60B6-4F2C-96F4-ED1B3D1B714E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B289CAD7-60B6-4F2C-96F4-ED1B3D1B714E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B289CAD7-60B6-4F2C-96F4-ED1B3D1B714E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
